@@ -106,7 +106,7 @@ $headers = 'From: '.$email_from."\r\n".
     <div id="menu">
      <div id="container">
 		 
-        <a href="index.html"><img src="images/logo.gif" alt="Gaby Garcia" class="logosmall" style=""></a>
+        <a href="index.html"><img src="images/logo.png" alt="Gaby Garcia" class="logosmall" style=""></a>
 		  
 		 <ul class="navbar">
 			 
